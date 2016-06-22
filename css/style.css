@@ -770,3 +770,20 @@ h1, h2, h3, h4, h5, h6{
   opacity: 0.4;
   font-size: 12px;
 }
+
+.main_block {width: 55; border:0px black solid;}
+.main_block:before,.main_block:after { overflow:hidden; content:""; display:table; }
+.main_block:after { clear:both; }
+.inner_block1 {
+   display: inline-block;
+    float:left;
+    width:20%;
+  }
+  .inner_block1 img { width:100%; height:auto; vertical-align:middle; }
+.inner_block2 {
+   display: inline-block;
+    float:right;
+    width:20%;
+  }
+  .inner_block2 img { width:100%; height:auto; vertical-align:middle; }
+
