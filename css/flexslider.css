@@ -42,8 +42,8 @@
   <div class="row">
     <div class="large-4 columns">
       <ul class="navigation hide-for-small">
-        <li><a class="scroll" href="#about-nav">QUEM SOMOS</a></li>
-        <li><a class="scroll" href="#services-nav">SERVIÇOS</a></li>
+        <li><a class="scroll" href="#quem-somos">QUEM SOMOS</a></li>
+        <li><a class="scroll" href="#nossos-servicos">SERVIÇOS</a></li>
       </ul>
     </div>
     
@@ -54,8 +54,8 @@
     
     <div class="large-4 columns">
       <ul class="navigation hide-for-small">
-        <li><a class="scroll" href="#work-nav">VETERINÁRIO</a></li>
-        <li><a class="scroll" href="#contact-nav">CONTATO</a></li>
+        <li><a class="scroll" href="#veterinario">VETERINÁRIO</a></li>
+        <li><a class="scroll" href="#contato">CONTATO</a></li>
       </ul>
     </div>
     
@@ -65,10 +65,10 @@
   <div class="row">
     <div class="large-12 columns mobile-nav">
       <ul class="navigation">
-        <li><a class="scroll" href="#about-nav">QUEM SOMOS</a></li>
-        <li><a class="scroll" href="#services-nav">SERVIÇOS</a></li>
-        <li><a class="scroll" href="#work-nav">VETERINÁRIO</a></li>
-        <li><a class="scroll" href="#contact-nav">CONTATO</a></li>
+        <li><a class="scroll" href="#quem-somos">QUEM SOMOS</a></li>
+        <li><a class="scroll" href="#nossos-servicos">SERVIÇOS</a></li>
+        <li><a class="scroll" href="#veterinario">VETERINÁRIO</a></li>
+        <li><a class="scroll" href="#contato">CONTATO</a></li>
       </ul>
     </div>
   </div>
@@ -173,7 +173,7 @@
 
 </section>
 
-<a id="about-nav"></a>
+<a id="quem-somos"></a>
 <section id="about" class="pad-large">
   <div class="row">
     <div class="large-12 columns text-center">
@@ -203,7 +203,7 @@
   </div>
 </section>
 
-<a id="services-nav"></a>
+<a id="nossos-servicos"></a>
 <section id="services" class="pad-large">
 
   <div class="row">
@@ -291,7 +291,7 @@
   
 </section>
 
-<a id="work-nav"></a>
+<a id="veterinario"></a>
 <section id="work" class="pad-large">
   
 <div class="row">
@@ -316,7 +316,7 @@
   
 </section>
 
-<a id="contact-nav"></a>
+<a id="contato"></a>
 <section id="contact">
 
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.613301274975!2d-46.67428799999998!3d-23.582327999999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce575e15d814b7%3A0xede90578bff88fff!2sBicho+Chic!5e0!3m2!1sen!2sau!4v1405807477569"></iframe>
