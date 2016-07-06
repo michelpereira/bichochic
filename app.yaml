@@ -17,3 +17,5 @@ handlers:
 - url: /js
   static_dir: js
 
+- url: /sitemap.xml
+  static_files: static/sitemap.xml
