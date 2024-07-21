@@ -352,7 +352,7 @@
         <ul id="contact-details">
           <li><i class="typcn typcn-phone">&nbsp;</i><a href="tel:(011)3078-3399">(011)3078-3399</a></li>
           <li><i class="typcn typcn-phone">&nbsp;</i><a href="tel:(011)3078-6072">(011)3078-6072</a></li>
-          <li><i class="typcn typcn-location-outline">&nbsp;</i><a href="https://maps.google.com/maps?ll=-23.582311,-46.674318&z=17&t=m&hl=en-US&gl=AU&mapclient=embed&daddr=Bicho%20Chic%20R.%20Dr.%20Renato%20Paes%20de%20Barros%2C%20410%20-%20Itaim%20Bibi%20São%20Paulo%20-%20SP%2004530-000%2C%20Brazil@-23.5823108,-46.6743183">Rua Dr Renato Paes de Barros, 410 - Itaim Bibi - São Paulo - SP</a></li>
+          <li><i class="typcn typcn-location-outline">&nbsp;</i><a href="https://maps.app.goo.gl/vdtU15FXEejr9SjB7">Rua Tabapuã, 479 - 1°andar - Itaim Bibi - São Paulo - SP</a></li>
           <li><i class="typcn typcn-mail">&nbsp;</i><a href="mailto:contato@bichochic.com.br">contato@bichochic.com.br</a></li>
         </ul>
       </div>
